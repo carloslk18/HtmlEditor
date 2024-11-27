@@ -1,0 +1,14 @@
+C:\Users\carlo\OneDrive\Área de Trabalho\GG\C#\Balta\HtmlEditor\bin\Debug\net8.0\HtmlEditor.exe
+C:\Users\carlo\OneDrive\Área de Trabalho\GG\C#\Balta\HtmlEditor\bin\Debug\net8.0\HtmlEditor.deps.json
+C:\Users\carlo\OneDrive\Área de Trabalho\GG\C#\Balta\HtmlEditor\bin\Debug\net8.0\HtmlEditor.runtimeconfig.json
+C:\Users\carlo\OneDrive\Área de Trabalho\GG\C#\Balta\HtmlEditor\bin\Debug\net8.0\HtmlEditor.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\GG\C#\Balta\HtmlEditor\bin\Debug\net8.0\HtmlEditor.pdb
+C:\Users\carlo\OneDrive\Área de Trabalho\GG\C#\Balta\HtmlEditor\obj\Debug\net8.0\HtmlEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\OneDrive\Área de Trabalho\GG\C#\Balta\HtmlEditor\obj\Debug\net8.0\HtmlEditor.AssemblyInfoInputs.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\GG\C#\Balta\HtmlEditor\obj\Debug\net8.0\HtmlEditor.AssemblyInfo.cs
+C:\Users\carlo\OneDrive\Área de Trabalho\GG\C#\Balta\HtmlEditor\obj\Debug\net8.0\HtmlEditor.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\GG\C#\Balta\HtmlEditor\obj\Debug\net8.0\HtmlEditor.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\GG\C#\Balta\HtmlEditor\obj\Debug\net8.0\refint\HtmlEditor.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\GG\C#\Balta\HtmlEditor\obj\Debug\net8.0\HtmlEditor.pdb
+C:\Users\carlo\OneDrive\Área de Trabalho\GG\C#\Balta\HtmlEditor\obj\Debug\net8.0\HtmlEditor.genruntimeconfig.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\GG\C#\Balta\HtmlEditor\obj\Debug\net8.0\ref\HtmlEditor.dll
